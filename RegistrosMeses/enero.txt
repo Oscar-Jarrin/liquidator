@@ -1,0 +1,8 @@
+product 1: 0
+product 2: 9
+product 3: 10
+product 4: 1
+product 5: 80
+
+El saldo final del mes es: $100.00 
+Con una tarifa por unidad de $1.00
